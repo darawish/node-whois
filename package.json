@@ -4,6 +4,7 @@
   "description": "A WHOIS client for NodeJS",
   "main": "index.js",
   "bin": {
+    "prepare": "make",
     "whois": "index.js"
   },
   "scripts": {
